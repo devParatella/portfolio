@@ -1,4 +1,4 @@
-export default function Home() {
+const Home = () => {
   return (
     <main>
       <h1>Hello World com next.js</h1>
