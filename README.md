@@ -1,3 +1,29 @@
+
+Claro! Aqui está um exemplo de um README.md para o seu projeto de portfólio de transição de carreira utilizando Next.js, TypeScript e Tailwind CSS.
+
+markdown
+Copiar código
+# Portfólio de Transição de Carreira para TI
+
+## Descrição do Projeto
+
+Este é um projeto de portfólio desenvolvido com o objetivo de demonstrar minhas habilidades e conhecimentos adquiridos durante a transição de carreira para a área de Tecnologia da Informação (TI). O projeto foi construído utilizando **Next.js**, **TypeScript** e **Tailwind CSS**.
+
+## Tecnologias Utilizadas
+
+- **Next.js**: Um framework React para a construção de aplicações web modernas com funcionalidades como renderização do lado do servidor e geração estática.
+- **TypeScript**: Um superset do JavaScript que adiciona tipagem estática ao código, proporcionando uma melhor experiência de desenvolvimento.
+- **Tailwind CSS**: Um framework CSS utilitário que facilita a criação de interfaces de usuário customizáveis e responsivas.
+
+## Funcionalidades
+
+- **Página Inicial**: Uma visão geral das minhas habilidades, experiência e projetos.
+- **Sobre Mim**: Uma seção detalhada sobre minha trajetória profissional e minha transição para a área de TI.
+- **Projetos**: Uma galeria de projetos que desenvolvi, com descrições, tecnologias utilizadas e links para repositórios ou demos.
+- **Contato**: Um formulário de contato para que visitantes possam entrar em contato comigo diretamente pelo site.
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
